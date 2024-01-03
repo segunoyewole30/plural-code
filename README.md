@@ -1,2 +1,2 @@
-# plural-code
-This is just a tool
+# Social Analysis 
+Explaining social evenst in the society 
